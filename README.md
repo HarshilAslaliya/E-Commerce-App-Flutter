@@ -2,10 +2,6 @@
 
 🚀 A Flutter UI application for online shopping.
 
-The design of this project was inspired by [Toma](https://dribbble.com/WastingMyTime) from [Marvie iOS App UI Kit](https://dribbble.com/shots/10904459-Marvie-iOS-App-UI-Kit-Dark-Theme).
-
-This project relied on this [Flutter Getx Template](https://github.com/EmadBeltaje/flutter_getx_template) made by [Emad Beltaje](https://github.com/EmadBeltaje).
-
 ## Demo of the application 🎥
 ![Flutter E-commerce App Demo](https://github.com/AbdQader/ecommerce_app/assets/64075836/92ab2771-f821-4583-80c1-fc1b2183b503)
 
@@ -59,4 +55,4 @@ The Flutter eCommerce UI is a visually captivating and fully functional User Int
 ## Don't forget to :star: the repository.
 
 ## Support ❤️
-For support, you can contact me at this [Email](mailto:abd8alqader@gmail.com) or at [Facebook](https://www.facebook.com/aasharef/).
+For support, you can contact me at this [Email](mailto:harshilaslaliya@gmail.com).
